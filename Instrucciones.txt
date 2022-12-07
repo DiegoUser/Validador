@@ -1,0 +1,6 @@
+1) Asegurarse de tener instalado Python
+2) Asegurarse que el archivo de texto se llame "reporte.txt"
+3) Asegurarse que el archivo de excel se llame "resumen.xlsx" (desde microstrategy se descarga como xls, entrar al archivo y dar exportar, y elegir xlsx)
+4) Ejecutar el archivo "Validador.bat"
+5) Será generado un archivo llamado "CedulasNoEncontradas.txt" en la carpeta Salida
+*Importante, si se ejecuta el programa y no se borra el archivo de Salida del anterior reporte, se agregará al final la nueva información.
